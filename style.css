@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+p, h2 {
+    color: green;
+}
+
+.center  {
+    display:block;
+    margin: auto;
+    border-style: dotted;
+}
+
+#quote {
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    background-color: aquamarine;
+}
+
+tr:hover {
+    background-color: bisque;
+}
+
+body {
+    background-color: rgb(209, 242, 235); /* I like this color */
+    margin: 80px;
+}
